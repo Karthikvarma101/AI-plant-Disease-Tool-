@@ -2,7 +2,6 @@
 
 ## PLANT-AI [Recognition of Plant Diseases by Leaf Image Classification]
 
-### <a href="https://plant49-ai.herokuapp.com/" target="_blank"</a>
 
 ## <img src="./Assets/web.gif" alt="demo"/>
 
